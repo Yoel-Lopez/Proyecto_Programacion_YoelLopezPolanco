@@ -5,7 +5,7 @@ Repositorio encontraran  todas las practicas realizadas en la materia de Program
 
 *[ Practica 1-Introducción y tipos de variables] (https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/tree/main/Practica%201_Introducci%C3%B3n%20y%20tipos%20de%20variables)
 
-*[Practica 2-Condiciones simples anidados y múltiples]( https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/tree/main/Practica%202_condicionales%20simples%2C%20anidados%20y%20m%C3%BAtiples)
+*[Practica 2-Condiciones simples anidados y múltiples]( 
 
 *[Practica 3-Estructuras repetitivas](   
 
