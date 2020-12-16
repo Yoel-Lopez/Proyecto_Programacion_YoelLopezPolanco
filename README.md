@@ -6,7 +6,7 @@ Repositorio encontraran  todas las practicas realizadas en la materia de Program
 *[Practica 2-Condiciones simples anidados y múltiples]
 *[Practica 3-Estructuras repetitivas]   
 *[Practica 4-Función Arreglos]
-*[Practica 5-
+*[Practica 5-Métodos Cerrados]
 *[Practica 6-
 *[Practica 10-
 *[Practica 11-
