@@ -5,7 +5,7 @@ Repositorio encontraran  todas las practicas realizadas en la materia de Program
 *[ Practica 1-Introducción y tipos de variables]
 *[Practica 2-Condiciones simples anidados y múltiples]
 *[Practica 3-Estructuras repetitivas]   
-*[Practica 4-
+*[Practica 4-Función Arreglos]
 *[Practica 5-
 *[Practica 6-
 *[Practica 10-
