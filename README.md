@@ -3,4 +3,4 @@
 #                           "PROYECTO FINAL"                                         
 Repositorio encontraran  todas las practicas realizadas en la materia de Programación y Métodos Numéricos en el ciclo 2020-2. Dada por el profesor Roilhi Frajo Hernández en la Universidad Autónoma De Baja California. 
 
-Práctica 1 - Introducción y tipos de variables : (
+Práctica 1-Introduccion y tipo de variables:(https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/tree/main/Practica%201_Introducci%C3%B3n%20y%20tipos%20de%20variables)  
