@@ -15,6 +15,6 @@ Repositorio encontraran  todas las practicas realizadas en la materia de Program
 
 *[Practica 6-Métodos Abiertos](https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/commit/f9c955cf2b060d3ccb209aadb57af640f333963f)
 
-*[Practica 10-Derivacion numerica](
+*[Practica 10-Derivacion numerica](https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/commit/d16ef1d6091f1e06b1e0218c9862e644101d4c4b)
 
 *[Practica 11-Jacobi y Gausel](
