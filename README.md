@@ -19,4 +19,4 @@ Repositorio encontraran  todas las practicas realizadas en la materia de Program
 
 *[Practica 11-Jacobi y Gausel](https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/commit/912adf0caedd7ec7eac924a07cb6bbb9fd762c61)
 
-**[La tarea de un programador no es solo escribir un programa,sino que su tarea principal da prueba formal de que el programa propone  cumple la especificaicon funcional]
+**[La tarea de un programador no es solo escribir un programa,sino que su tarea principal da prueba formal de que el programa propone  cumple la especificaicon funcional]**
