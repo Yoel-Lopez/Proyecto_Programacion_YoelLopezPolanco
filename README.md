@@ -25,4 +25,6 @@ Yoel Isaac López Polanco                           Grupo :21
 
 -Edsger Dijkstra
 
-Gracias por su atencion.
+# Gracias por todo
+
+![](https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/blob/main/programacion123.png)
