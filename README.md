@@ -7,7 +7,7 @@ Repositorio encontraran  todas las practicas realizadas en la materia de Program
 *[Practica 3-Estructuras repetitivas]   
 *[Practica 4-Función Arreglos]
 *[Practica 5-Métodos Cerrados]
-*[Practica 6-
+*[Practica 6-Métodos Abiertos]
 *[Practica 10-
 *[Practica 11-
 *[
