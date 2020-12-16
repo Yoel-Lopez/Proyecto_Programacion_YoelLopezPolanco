@@ -24,3 +24,5 @@ Yoel Isaac López Polanco                           Grupo :21
 **[La tarea de un programador no es solo escribir un programa,sino que su tarea principal da prueba formal de que el programa propone  cumple la especificaicon funcional]**
 
 -Edsger Dijkstra
+
+Gracias por su atencion.
