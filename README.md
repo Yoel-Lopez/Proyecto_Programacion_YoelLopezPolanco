@@ -27,4 +27,4 @@ Yoel Isaac López Polanco                           Grupo :21
 
 # Gracias por todo
 
-![](https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/commit/673e20098b7afd38bc03b9404485de534a9d16e7)
+![](https://github.com/Yoel-Lopez/Proyecto_Programacion_YoelLopezPolanco/blob/main/programacion12345.gif)
